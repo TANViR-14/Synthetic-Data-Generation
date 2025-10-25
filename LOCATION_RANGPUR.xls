@@ -1,0 +1,59 @@
+LOCATION_ID,UPAZILLA,DISTRICT,LATITUDE,LONGITUDE
+LR01,Rangpur Sadar,Rangpur,25.7439,89.2752
+LR02,Badarganj,Rangpur,25.6744,89.0539
+LR03,Gangachara,Rangpur,25.7973,89.1989
+LR04,Kaunia,Rangpur,25.5311,89.3328
+LR05,Mithapukur,Rangpur,25.5333,89.2667
+LR06,Pirgachha,Rangpur,25.8667,89.3833
+LR07,Pirganj,Rangpur,25.8667,89.05
+LR08,Taraganj,Rangpur,25.8833,89.2667
+LR09,Dinajpur Sadar,Dinajpur,25.6217,88.6354
+LR10,Birampur,Dinajpur,25.35,88.9833
+LR11,Birganj,Dinajpur,25.5833,88.6167
+LR12,Biral,Dinajpur,25.7667,88.5833
+LR13,Bochaganj,Dinajpur,25.85,88.85
+LR14,Chirirbandar,Dinajpur,25.85,88.6167
+LR15,Phulbari,Dinajpur,25.6667,89
+LR16,Ghoraghat,Dinajpur,25.7167,88.7667
+LR17,Hakimpur,Dinajpur,25.8667,88.75
+LR18,Kaharole,Dinajpur,25.6833,88.5167
+LR19,Khansama,Dinajpur,25.85,88.9167
+LR20,Nawabganj,Dinajpur,25.6667,88.8333
+LR21,Parbatipur,Dinajpur,25.6667,88.9333
+LR22,Gaibandha Sadar,Gaibandha,25.3283,89.5431
+LR23,Fulchhari,Gaibandha,25.4667,89.5333
+LR24,Gobindaganj,Gaibandha,25.1333,89.3333
+LR25,Palashbari,Gaibandha,25.4167,89.4167
+LR26,Sadullapur,Gaibandha,25.55,89.5833
+LR27,Saghata,Gaibandha,25.5667,89.7
+LR28,Sundarganj,Gaibandha,25.5333,89.3333
+LR29,Kurigram Sadar,Kurigram,25.8073,89.6298
+LR30,Bhurungamari,Kurigram,25.85,89.7333
+LR31,Char Rajibpur,Kurigram,25.65,89.65
+LR32,Chilmari,Kurigram,25.9167,89.6667
+LR33,Phulbari,Kurigram,25.8167,89.5167
+LR34,Nageshwari,Kurigram,25.9333,89.7
+LR35,Rajarhat,Kurigram,25.6667,89.6333
+LR36,Raumari,Kurigram,25.8667,89.6167
+LR37,Ulipur,Kurigram,25.7333,89.5667
+LR38,Lalmonirhat Sadar,Lalmonirhat,25.9174,89.4457
+LR39,Aditmari,Lalmonirhat,25.9833,89.1333
+LR40,Hatibandha,Lalmonirhat,25.8833,89.3333
+LR41,Kaliganj,Lalmonirhat,25.65,89.1667
+LR42,Patgram,Lalmonirhat,26.0333,89.1167
+LR43,Nilphamari Sadar,Nilphamari,25.9317,88.8561
+LR44,Dimla,Nilphamari,25.9667,88.6833
+LR45,Domar,Nilphamari,25.8333,88.95
+LR46,Jaldhaka,Nilphamari,25.9833,89.0667
+LR47,Kishoreganj,Nilphamari,25.8667,88.8167
+LR48,Saidpur,Nilphamari,25.7769,88.9006
+LR49,Panchagarh Sadar,Panchagarh,26.3411,88.5541
+LR50,Atwari,Panchagarh,26.3833,88.65
+LR51,Boda,Panchagarh,26.4167,88.7333
+LR52,Debiganj,Panchagarh,26.1333,88.6833
+LR53,Tetulia,Panchagarh,26.5,88.5333
+LR54,Thakurgaon Sadar,Thakurgaon,26.034,88.4616
+LR55,Baliadangi,Thakurgaon,26.1333,88.3667
+LR56,Haripur,Thakurgaon,26.1167,88.55
+LR57,Pirganj,Thakurgaon,25.9667,88.3333
+LR58,Ranisankail,Thakurgaon,26.0667,88.6167
